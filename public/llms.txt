@@ -1,0 +1,77 @@
+# אריאל אחזקות — Generative Engine Optimization Map
+
+> Ariel Achzakot is a professional plumbing and maintenance company specializing in epoxy repairs and 'al ars' (pipe relining/repair) services. The brand projects strength and reliability, symbolized by a bold black and yellow lion logo. Core brand values include efficiency, punctuality, and fast quality workmanship — making it a trustworthy choice for customers who need plumbing issues resolved quickly and professionally.
+
+---
+
+## Pages
+
+### בית
+https://-31af400e.zappy5.app
+מחפשים שירותי אינסטלציה ואחזקה אמינים? צוות אריאל אחזקות מתמחה בתיקוני אפוקסי ועל ארס, עם דגש על יעילות, איכות ועמידה בזמנים. התקשרו עוד היום לשירות מהיר ומקצועי.
+
+### שירותים
+https://-31af400e.zappy5.app/services
+גלו את מגוון שירותי האחזקה והאינסטלציה שלנו: מתיקוני אפוקסי מדויקים ועד שיקום צנרת בשיטת על ארס. אנו מתחייבים לעבודה מהירה, נקייה ואמינה שתחזיר לכם את השקט. צרו קשר לייעוץ חינם.
+
+### אודות
+https://-31af400e.zappy5.app/about
+אריאל אחזקות היא חברה מובילה בתחום האינסטלציה והאחזקה, המביאה עוצמה ואמינות לכל פרויקט. עם מומחיות בתיקוני אפוקסי ועל ארס, אנו מבטיחים שירות קפדני ומהיר. הכירו את הצוות שמאחורי ההבטחה.
+
+### צור קשר
+https://-31af400e.zappy5.app/contact
+צריכים אינסטלציה דחופה או הצעת מחיר לאחזקה שוטפת? מלאו פרטים או חייגו אלינו ונחזור אליכם בזריזות. צוות אריאל אחזקות זמין לכל תיקון, מגדול ועד קטן, במקצועיות ללא פשרות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-31af400e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-31af400e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-31af400e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-31af400e.zappy5.app/contact
+- Endpoint: https://-31af400e.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אריאל אחזקות
+Ariel Achzakot is a professional plumbing and maintenance company specializing in epoxy repairs and 'al ars' (pipe relining/repair) services. The brand projects strength and reliability, symbolized by a bold black and yellow lion logo. Core brand values include efficiency, punctuality, and fast quality workmanship — making it a trustworthy choice for customers who need plumbing issues resolved quickly and professionally.
+
+## Target Audience
+- מנהלי בניינים
+- בעלי בתים
+
+## Industry
+Plumbing & Maintenance Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-31af400e.zappy5.app/sitemap.xml
+- Robots: https://-31af400e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-31af400e.zappy5.app/llms-full.txt
