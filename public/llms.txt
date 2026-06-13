@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://ariel-ahzakot.zappy5.app
 מחפשים שירותי אינסטלציה ואחזקה אמינים? צוות אריאל אחזקות מתמחה בתיקוני אפוקסי ועל ארס, עם דגש על יעילות, איכות ועמידה בזמנים. התקשרו עוד היום לשירות מהיר ומקצועי.
 
 ### שירותים
-https://example.com/services
+https://ariel-ahzakot.zappy5.app/services
 גלו את מגוון שירותי האחזקה והאינסטלציה שלנו: מתיקוני אפוקסי מדויקים ועד שיקום צנרת בשיטת על ארס. אנו מתחייבים לעבודה מהירה, נקייה ואמינה שתחזיר לכם את השקט. צרו קשר לייעוץ חינם.
 
 ### אודות
-https://example.com/about
+https://ariel-ahzakot.zappy5.app/about
 אריאל אחזקות היא חברה מובילה בתחום האינסטלציה והאחזקה, המביאה עוצמה ואמינות לכל פרויקט. עם מומחיות בתיקוני אפוקסי ועל ארס, אנו מבטיחים שירות קפדני ומהיר. הכירו את הצוות שמאחורי ההבטחה.
 
 ### צור קשר
-https://example.com/contact
+https://ariel-ahzakot.zappy5.app/contact
 צריכים אינסטלציה דחופה או הצעת מחיר לאחזקה שוטפת? מלאו פרטים או חייגו אלינו ונחזור אליכם בזריזות. צוות אריאל אחזקות זמין לכל תיקון, מגדול ועד קטן, במקצועיות ללא פשרות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://ariel-ahzakot.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://ariel-ahzakot.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://ariel-ahzakot.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://ariel-ahzakot.zappy5.app/contact
+- Endpoint: https://ariel-ahzakot.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -72,6 +72,6 @@ Plumbing & Maintenance Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://ariel-ahzakot.zappy5.app/sitemap.xml
+- Robots: https://ariel-ahzakot.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ariel-ahzakot.zappy5.app/llms-full.txt
